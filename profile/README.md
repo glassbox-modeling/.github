@@ -33,7 +33,7 @@ blog posts.
     assumptions
 4)  Humility: We recognize the limits of our current knowledge and
     remain open to revision and critique
-5)  Human-first
+5)  Human-first:
     - We pledge to only use AI as a supporting writing tool
     - We encourage dialogue through comment sections
 6)  Accessibility: We release content in multiple formats to reach diverse audiences
