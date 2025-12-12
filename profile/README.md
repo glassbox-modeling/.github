@@ -63,7 +63,7 @@ blog posts.
 ### Data Diction
 
 [*Data Diction*](https://data-diction.com/) started in 2022 as a blog, but posts were infrequent.
-Now, the website is maintained by this working group as a a faculty-led scholarly outlet 
+Now, the website is maintained by this working group as a faculty-led scholarly outlet 
 that emphasizes high-quality methodological exposition, including quick tutorials, opinion
 pieces, etc. 
 
